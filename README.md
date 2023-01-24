@@ -9,5 +9,7 @@ Inital display:
 Filtered to search entries by title:
 <img src='public/title.png'>
 
+
 And to search by year: 
+
 <img src='public/year.png'>
